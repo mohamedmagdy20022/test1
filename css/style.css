@@ -1,0 +1,16 @@
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+.test h1{
+    font-size: 80px !important;
+}
+
+.test{
+    
+    background-image:  url(../images/post-1.jpg);
+    background-size: cover;
+    background-position: center center;
+}
